@@ -1,0 +1,1 @@
+print("Kateryna Cherednichok, 1group-2024")
